@@ -37,6 +37,9 @@
 * Termux ( Rooted Devices)
 
 * Parrot OS
+
+* Termux > Debian 11 ( non Rooted Devices )
+
 # demo
 # Installation
 # Kali Linux / Ubuntu / Parrot OS :
